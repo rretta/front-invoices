@@ -85,6 +85,9 @@ module.exports = {
           ...defaultTheme.fontFamily.sans,
         ],
       },
+      backgroundImage: {
+        "checked": "url('../src/assets/images/checked.svg')"
+      },
     },
   },
   plugins: [],
